@@ -1,0 +1,8 @@
+REM Stringhe contenenti spazi
+REM -------------------------
+
+$str = "La mia stringa"
+PRINT $str
+
+REM Opzionale: stringa contenente spazi
+PRINT "Stringa contenente spazi"

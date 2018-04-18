@@ -1,0 +1,8 @@
+REM Istruzione FOR STEP
+REM -------------------
+
+FOR $var = 10 TO 3 STEP 2 DO
+PRINT $var
+NEXT
+
+IF $var = 2 THEN PRINT "OK" ELSE PRINT "NO" ENDIF

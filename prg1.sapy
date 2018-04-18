@@ -1,0 +1,14 @@
+REM Aritmetica booleana basilare
+REM ----------------------------
+
+$a = 13
+$b = 22
+
+if $a != 2 & $b > 3 then
+    print "OK"
+endif
+
+$a = true
+$b = not $a
+
+print $b

@@ -1,0 +1,13 @@
+rem ciao
+rem difoa
+rem asdfjahdslfa
+
+$a = 1
+
+$b = not $a
+
+$c = not $b
+
+print $a
+
+if $a = $c then print "hello" endif

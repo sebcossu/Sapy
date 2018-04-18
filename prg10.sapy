@@ -1,0 +1,10 @@
+REM Input/Output
+REM ------------
+
+PRINT "Inserisci a:"
+INPUT $a
+PRINT "Inserisci b:"
+INPUT $b
+PRINT "Hai inserito:"
+PRINT $a
+PRINT $b

@@ -1,0 +1,20 @@
+REM Espressioni
+REM -----------
+
+$x = 6
+$k = ( 5 * 3 ) + ( $x / 2 )
+$k = $k + 1
+
+IF $k = 19 THEN 
+    PRINT "OK" : PRINT
+ELSE
+    PRINT "NO" : PRINT
+ENDIF 
+
+$expr = 5*3/2-(3*$k)+1
+
+IF $expr = 53 THEN
+    PRINT "OK" : PRINT
+ELSE
+    PRINT "NO" : PRINT
+ENDIF

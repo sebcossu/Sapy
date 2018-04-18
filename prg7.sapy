@@ -1,0 +1,9 @@
+REM Istruzione WHILE
+REM ----------------
+
+$y = 1
+WHILE $y <= 4096 DO
+ $y = $y * 2
+LOOP
+
+print $y
